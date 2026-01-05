@@ -1,4 +1,4 @@
-# About Me
+# About Gary
 
 I’ve been working with technology for most of my life. My earliest experiments were text adventure games on a Commodore 64, long before I knew what a career in IT or cybersecurity would look like. That early curiosity never really faded — it just evolved as the industry did.
 
@@ -42,10 +42,8 @@ My long‑term focus is AI Security: understanding how AI systems behave, how th
 
 ## Contact
 
-Feel free to reach out or connect:
+Feel free to reach out to me directly using [this form](contact.md), or connect with me on [LinkedIn](https://www.linkedin.com/in/gary-m-hartzell).
 
-- **Email:** gary@hartzell.us  
-- **LinkedIn:** https://www.linkedin.com/in/gary-m-hartzell  
-
+---
 
 ©️2025-2026 Gary M. Hartzell

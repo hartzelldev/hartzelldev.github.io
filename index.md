@@ -47,10 +47,8 @@ If you’d like to learn more about my background, certifications, and experienc
 
 ## Contact
 
-Feel free to reach out or connect:
+Feel free to reach out to me directly using [this form](contact.md), or connect with me on [LinkedIn](https://www.linkedin.com/in/gary-m-hartzell).
 
-- **Email:** gary@hartzell.us  
-- **LinkedIn:** https://www.linkedin.com/in/gary-m-hartzell  
-
+---
 
 ©️2025-2026 Gary M. Hartzell
