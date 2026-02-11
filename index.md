@@ -21,11 +21,10 @@ Latest release: **v1.0 Final Beta (2025-09-12)**
 
 ### SlamSim!  
 *A pro‑wrestling booking simulator with AI‑generated match summaries.*  
-Latest release: **v1.0 Beta 5 (2025-12-05)**  
+Latest release: **v1.0 Beta 6 (2026-02-11)**  
 - Dynamic roster generation  
 - AI‑written match recaps  
-- Expanded event simulation  
-🔗 https://github.com/hartzelldev/slamsim
+ https://github.com/hartzelldev/slamsim
 
 ---
 
