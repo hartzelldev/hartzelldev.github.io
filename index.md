@@ -9,32 +9,39 @@ Below are my active projects, each with a brief overview and the latest release 
 
 ## Projects
 
+### AI Ally Light
+* A modular, text-first AI development toolbox designed for power users and developers who value accessibility, local data control, and extensible AI workflows.
+* **Latest release:** v0.4 Alpha (2026-04-06)
+[Visit repository](https://github.com/hartzelldev/ai-ally-light)
+
+---
+
 ### Publine  
-*A self‑publishing assistant for indie writers.*  
-Latest release: **v1.0 Final Beta (2025-09-12)**  
+*A self‑publishing assistant for indie writers.
+* Latest release: **v1.0 Final Beta (2025-09-12)**  
 - AI‑powered chapter summarization  
 - Streamlined editing workflow  
 - Improved export and organization tools  
-🔗 https://github.com/hartzelldev/publine
+[Visit repository](https://github.com/hartzelldev/publine)
 
 ---
 
 ### SlamSim!  
-*A pro‑wrestling booking simulator with AI‑generated match summaries.*  
-Latest release: **v1.0 Beta 6 (2026-02-11)**  
+*A pro‑wrestling booking simulator with AI‑generated match summaries.
+* **Latest release:** **v1.0 Beta 6 (2026-02-11)**  
 - Dynamic roster generation  
 - AI‑written match recaps  
- https://github.com/hartzelldev/slamsim
+[Visit repository](https://github.com/hartzelldev/slamsim)
 
 ---
 
 ### Red Dragon Rising  
-*A roguelike inspired by the classic BBS game Legend of the Red Dragon.*  
-Latest release: **0.4 Alpha (2025-12-12)**  
+* A roguelike inspired by the classic BBS game Legend of the Red Dragon. 
+* **Latest release:** **0.4 Alpha (2025-12-12)**  
 - Core combat and exploration prototype  
 - Procedural worldbuilding in progress  
 - Planned AI‑generated NPCs, quests, and events  
-🔗 https://github.com/hartzelldev/red-dragon-rising
+[Visit repository](https://github.com/hartzelldev/red-dragon-rising)
 
 ---
 
