@@ -9,10 +9,10 @@ All projects listed here are designed with a **text-first, screen reader-friendl
 
 ## Productivity & AI Tools
 
-### AI Ally Light (v0.5.2 Beta)
+### AI Ally Light (v0.6.0 Beta)
 * **Purpose:** A modular, local RAG system and AI development toolbox.
 * **Focus:** Designed for power users who value local data control and extensible AI workflows.
-* [Download for Windows](https://github.com/hartzelldev/ai-ally-light/releases/download/0.5.2-beta/ai-ally-light-0.5.2-beta-win64.zip)
+* [Download for Windows](https://github.com/hartzelldev/ai-ally-light/releases/download/v0.6.0/ai-ally-light-v0.6.0-beta-win64.zip)
 * [Visit AI Ally Light Repository](https://github.com/hartzelldev/ai-ally-light)
 
 ### Publine (v1.0 Final Beta)
